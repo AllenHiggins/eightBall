@@ -1,0 +1,5 @@
+C:\Users\Alan\Desktop\C #\eigthBall\eigthBall\bin\Debug\eigthBall.exe
+C:\Users\Alan\Desktop\C #\eigthBall\eigthBall\bin\Debug\eigthBall.pdb
+C:\Users\Alan\Desktop\C #\eigthBall\eigthBall\obj\x86\Debug\eigthBall.exe
+C:\Users\Alan\Desktop\C #\eigthBall\eigthBall\obj\x86\Debug\eigthBall.pdb
+C:\Users\Alan\Desktop\C #\eigthBall\eigthBall\obj\x86\Debug\eigthBall.csprojResolveAssemblyReference.cache
